@@ -1,0 +1,1 @@
+exponential operator in js(**) =>  5**2 = 25 (similar to 5^2)

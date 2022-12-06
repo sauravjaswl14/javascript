@@ -1,0 +1,13 @@
+push -> add to end and returns the new size of the array
+pop -> remove from end and returns the removed value
+Shift -> remove from start and returns the removed element
+unshift -> adds to start and returns the new length of the array
+
+concat -> merge arrays 
+includes -> look for a value 
+indexOf -> just like str.indexOf, returns the index and -1 if element is not present 
+join -> creates a string from array 
+reverse -> reverses an array in place(it mutates the array)
+slice -> copy portion of an array 
+splice -> remove/replace elements also inserts in between 
+sort -> sorts an array 
