@@ -1,0 +1,6 @@
+in javascript, functions are like values, we can pass them as arguments,
+return them, store them in variables.
+
+functions are object 
+
+console.dir(function_name);  //=>object like structure having key value pairs 

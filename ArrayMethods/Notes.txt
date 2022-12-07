@@ -4,10 +4,20 @@ Shift -> remove from start and returns the removed element
 unshift -> adds to start and returns the new length of the array
 
 concat -> merge arrays 
-includes -> look for a value 
+includes -> look for a value and returns true or false if value is found or not found 
 indexOf -> just like str.indexOf, returns the index and -1 if element is not present 
 join -> creates a string from array 
 reverse -> reverses an array in place(it mutates the array)
 slice -> copy portion of an array 
 splice -> remove/replace elements also inserts in between 
 sort -> sorts an array 
+
+
+forEach -> Accepts a callback function. calls the function once per element in the array 
+
+Map -> creates a new array with the results of calling a callback on every element in the array
+        Map doesnot mutates the array, it maps the values into new array 
+
+find -> returns the value of the first element in the array that satisfies the provided testing function
+    
+        the function that is passed as callback , must return true or false(i.e boolean function)
