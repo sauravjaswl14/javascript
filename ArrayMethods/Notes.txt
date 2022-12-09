@@ -21,3 +21,9 @@ Map -> creates a new array with the results of calling a callback on every eleme
 find -> returns the value of the first element in the array that satisfies the provided testing function
     
         the function that is passed as callback , must return true or false(i.e boolean function)
+
+filter -> creates a new array with all elements that pass the test implemented by the provided function 
+
+Every -> tests whether all elements in the array pass the provided function. It returns a Boolean value 
+
+Some -> Similar to every, but returns true if ANY of the array elements pass the test function
