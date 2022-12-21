@@ -1,3 +1,4 @@
+//Objects are not iterable
 const movieReviews = {
   Arrival: 9.5,
   Alien: 9,

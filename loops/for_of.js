@@ -1,3 +1,5 @@
+//A nice and easy way of iterating over arrays
+
 /* 
 for(variable of iterable){
     statement
